@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rania Khalifa
 - 👀 I’m interested in Frontend technologies
-- 🌱 I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp.
+- 🌱 I’m currently working on Next.js project with Material-UI .
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rania-kh&show_icons=true&theme=radical"/>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rania-kh&layout=compact" />
 <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
